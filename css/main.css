@@ -1,0 +1,69 @@
+.js-form {
+  background: #0048ff;
+  color: aliceblue;
+  text-align: center;
+  padding: 20px;
+}
+.js-input {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid #1f8491;
+}
+.js-btn {
+  width: 100px;
+  height: 30px;
+  border: 3px solid #00ff1e;
+}
+
+
+.films {
+  background: #41ec08;
+  width: 1200px;
+  margin: 0 auto;
+}
+main {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+main > div {
+  width: 300px;
+  height: 550px;
+  margin: 19px 15px;
+  background: rgb(26, 151, 189);
+  border-radius: 1rem;
+  box-shadow: 1px 1px 1px rgba(172, 173, 177, 0.144);
+}
+img {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+  border-radius: 1rem;
+}
+h3 {
+  font-size: 20px;
+  font-family: sans-serif;
+  line-height: 1.5rem;
+  text-align: center;
+  margin-top: 20px;
+  color: #fff;
+}
+/* #main {
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  flex-wrap: wrap;
+  
+}
+#main > div {
+  width: 500px;
+  margin: 10px;
+  height: 400px;
+}
+
+#main > img {
+  width: 400px;
+  height: 300px;
+} */
